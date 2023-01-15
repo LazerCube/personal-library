@@ -6,7 +6,9 @@ This is a collection of personal builds and addons for use with [RocketBlend](ht
 
 ## Builds
 
-* `github.com/lazercube/personal-library/public/builds/bforartists/3.4.0`
+* `github.com/lazercube/personal-library/public/showcase/builds/bforartists/3.4.0`
+* `github.com/lazercube/personal-library/public/development/builds/yaml/valid`
+* `github.com/lazercube/personal-library/public/development/builds/yaml/invalid`
 
 ## Addons
 
