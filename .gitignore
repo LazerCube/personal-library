@@ -8,4 +8,4 @@
 private/
 
 # Hack to not include the actual build/addon files
-public/*/*/*/*/
+public/*/*/*/*/*/
