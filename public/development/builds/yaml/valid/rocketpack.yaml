@@ -4,3 +4,5 @@ build:
     - platform: windows
       executable: blender-3.3.0-windows-x64/blender.exe
       url: https://download.blender.org/release/Blender3.3/blender-3.3.0-windows-x64.zip
+  addons:
+    - github.com/lazercube/personal-library/public/development/addons/rocketblend/latest

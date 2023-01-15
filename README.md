@@ -12,4 +12,6 @@ This is a collection of personal builds and addons for use with [RocketBlend](ht
 
 ## Addons
 
+* `github.com/lazercube/personal-library/public/development/addons/rocketblend/latest`
+
 Nothing here yet.
