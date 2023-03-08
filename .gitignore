@@ -3,10 +3,3 @@
 
 # direnv
 .envrc
-
-# Private builds and addons
-private/
-
-# Hack to not include the actual build/addon files
-public/*/*/*/*/*/
-public/*/*/*/*/*.zip

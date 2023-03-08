@@ -6,10 +6,12 @@ This is a collection of personal builds and addons for use with [RocketBlend](ht
 
 ## Builds
 
-* `github.com/lazercube/personal-library/public/showcase/builds/bforartists/3.4.0`
-* `github.com/lazercube/personal-library/public/development/builds/yaml/valid`
-* `github.com/lazercube/personal-library/public/development/builds/yaml/invalid`
+* `github.com/lazercube/personal-library/showcase/builds/bforartists/3.4.0`
+* `github.com/lazercube/personal-library/development/builds/yaml/valid`
+* `github.com/lazercube/personal-library/development/builds/yaml/invalid`
 
 ## Addons
 
-* `github.com/lazercube/personal-library/public/development/addons/rocketblend/latest`
+* `github.com/lazercube/personal-library/development/addons/node-wrangler/preinstalled`
+* `github.com/lazercube/personal-library/development/addons/cycles/preinstalled`
+* `github.com/lazercube/personal-library/development/addons/rocketblend/latest`
