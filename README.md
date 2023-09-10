@@ -6,7 +6,7 @@ This is a collection of personal builds and addons for use with [RocketBlend](ht
 
 ## Builds
 
-* `github.com/lazercube/personal-library/showcase/builds/bforartists/3.4.0`
+* `github.com/lazercube/personal-library/packages/builds/bforartists/stable/3.4.0`
 * `github.com/lazercube/personal-library/development/builds/yaml/valid`
 * `github.com/lazercube/personal-library/development/builds/yaml/invalid`
 * `github.com/lazercube/personal-library/development/builds/0.8/stable/3.5.0`
@@ -14,6 +14,8 @@ This is a collection of personal builds and addons for use with [RocketBlend](ht
 
 ## Addons
 
+* `github.com/lazercube/personal-library/packages/addons/deep-bump/7.0.0`
+* `github.com/lazercube/personal-library/packages/addons/stability-cloud/0.0.16`
 * `github.com/lazercube/personal-library/development/addons/node-wrangler/preinstalled`
 * `github.com/lazercube/personal-library/development/addons/cycles/preinstalled`
 * `github.com/lazercube/personal-library/development/addons/rocketblend/latest`
