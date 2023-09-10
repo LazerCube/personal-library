@@ -1,0 +1,19 @@
+build:
+  addons:
+  - github.com/rocketblend/official-library/packages/blender/addons/pose-library/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/biovision-motion-capture-bvh-format/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/fbx-format/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/stl-format/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/scalable-vector-graphics-svg-11-format/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/stanford-ply-format/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/uv-layout/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/wavefront-obj-format-legacy/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/gltf-20-format/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/wavefront-obj-format-legacy/pre-installed
+  - github.com/rocketblend/official-library/packages/blender/addons/cycles-render-engine/pre-installed
+  - github.com/rocketblend/official-library/packages/community/addons/web3d-x3dvrml2-format/pre-installed
+  sources:
+    windows:
+      resource: blender-4.0.0-alpha+main.967d49dba48e-windows.amd64-release/blender.exe
+      uri: https://builder.blender.org/download/daily/blender-4.0.0-alpha+main.967d49dba48e-windows.amd64-release.zip
+  version: 4.0.0
