@@ -1,0 +1,12 @@
+{
+  "spec": "0.1.0",
+  "type": "build",
+  "version": "3.4.0",
+  "sources": [
+    {
+      "platform": "windows",
+      "uri": "https://github.com/Bforartists/Bforartists/releases/download/v3.4.0/Bforartists-3.4.0-Windows.zip",
+      "resource": "Bforartists-3.4.0-Windows/bforartists.exe"
+    }
+  ]
+}
