@@ -11,4 +11,4 @@ This is a collection of personal builds and addons for use with [RocketBlend](ht
 
 ## Addons
 
-* `github.com/lazercube/personal-library/packages/dev/addons/rocketblend-companion/0.1.1` - **NOTE**: Not `0.9.0` compatible.
+* `github.com/lazercube/personal-library/packages/dev/addons/rocketblend-companion/0.1.1` - **Not `0.9.0` compatible.**
